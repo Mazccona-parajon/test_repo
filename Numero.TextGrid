@@ -1,0 +1,126 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 3.546848072562358 
+tiers? <exists> 
+size = 3 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "word" 
+        xmin = 0 
+        xmax = 3.546848072562358 
+        intervals: size = 7 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.6081861400183236 
+            text = "" 
+        intervals [2]:
+            xmin = 0.6081861400183236 
+            xmax = 1.1409698748570167 
+            text = "NUmero" 
+        intervals [3]:
+            xmin = 1.1409698748570167 
+            xmax = 1.358432623770769 
+            text = "" 
+        intervals [4]:
+            xmin = 1.358432623770769 
+            xmax = 1.9129626335008372 
+            text = "nuMero" 
+        intervals [5]:
+            xmin = 1.9129626335008372 
+            xmax = 2.2609030317628407 
+            text = "" 
+        intervals [6]:
+            xmin = 2.2609030317628407 
+            xmax = 2.706701667036033 
+            text = "numeRO" 
+        intervals [7]:
+            xmin = 2.706701667036033 
+            xmax = 3.546848072562358 
+            text = "" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "sylable" 
+        xmin = 0 
+        xmax = 3.546848072562358 
+        intervals: size = 18 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.6118673485932558 
+            text = "" 
+        intervals [2]:
+            xmin = 0.6118673485932558 
+            xmax = 0.844856725797326 
+            text = "nu" 
+        intervals [3]:
+            xmin = 0.844856725797326 
+            xmax = 0.8512575328633718 
+            text = "" 
+        intervals [4]:
+            xmin = 0.8512575328633718 
+            xmax = 0.9703125442918252 
+            text = "me" 
+        intervals [5]:
+            xmin = 0.9703125442918252 
+            xmax = 0.975433189944662 
+            text = "" 
+        intervals [6]:
+            xmin = 0.975433189944662 
+            xmax = 1.1636169176864108 
+            text = "ro" 
+        intervals [7]:
+            xmin = 1.1636169176864108 
+            xmax = 1.3496424190702463 
+            text = "" 
+        intervals [8]:
+            xmin = 1.3496424190702463 
+            xmax = 1.4725379147383273 
+            text = "nu" 
+        intervals [9]:
+            xmin = 1.4725379147383273 
+            xmax = 1.6722430951989589 
+            text = "me" 
+        intervals [10]:
+            xmin = 1.6722430951989589 
+            xmax = 1.6748034180253772 
+            text = "" 
+        intervals [11]:
+            xmin = 1.6748034180253772 
+            xmax = 1.8681077914199629 
+            text = "ro" 
+        intervals [12]:
+            xmin = 1.8681077914199629 
+            xmax = 2.2581272307318465 
+            text = "" 
+        intervals [13]:
+            xmin = 2.2581272307318465 
+            xmax = 2.3707814350942544 
+            text = "nu" 
+        intervals [14]:
+            xmin = 2.3707814350942544 
+            xmax = 2.3720615965074634 
+            text = "" 
+        intervals [15]:
+            xmin = 2.3720615965074634 
+            xmax = 2.4872761236962893 
+            text = "me" 
+        intervals [16]:
+            xmin = 2.4872761236962893 
+            xmax = 2.4987975764151718 
+            text = "" 
+        intervals [17]:
+            xmin = 2.4987975764151718 
+            xmax = 2.6831408199172935 
+            text = "ro" 
+        intervals [18]:
+            xmin = 2.6831408199172935 
+            xmax = 3.546848072562358 
+            text = "" 
+    item [3]:
+        class = "TextTier" 
+        name = "mid" 
+        xmin = 0 
+        xmax = 3.546848072562358 
+        points: size = 0 
